@@ -42,15 +42,24 @@ Currently building systems such as:
 ## Featured Projects
 
 🔹 AI Debugging Assistant  
-AI system that analyzes stack traces and suggests possible fixes.
+AI system that analyzes application errors, identifies root causes,
+and suggests possible fixes using LLM reasoning and workflow automation.
 
 🔹 RAG Knowledge Assistant  
-Document search assistant powered by vector embeddings and LLMs.
+Document search assistant powered by vector embeddings and retrieval pipelines.
 
 🔹 Multi-Agent Research System  
-Team of AI agents that collaborate to research and summarize topics.
- 
+Autonomous research system where multiple AI agents collaborate to gather,
+analyze and summarize information.
 
+🔹 AI Meeting Minutes Generator  
+AI system that converts meeting audio into structured summaries,
+extracting key discussion points and action items.
+
+🔹 AI Customer Support Agent  
+AI-powered support assistant that retrieves knowledge base information
+and answers user queries using LLM reasoning.
+ 
 ---
 
 ## 📫 Connect With Me
