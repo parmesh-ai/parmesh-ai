@@ -6,6 +6,16 @@ I’m currently focused on building applications using large language models, re
 
 ---
 
+## About Me
+ 
+AI systems engineer building LLM-powered applications, RAG pipelines, and multi-agent automation tools. 
+I focus on designing intelligent systems that combine large language models, vector retrieval, and event-driven workflows to solve real-world problems.
+
+Currently building projects around AI debugging assistants, knowledge retrieval 
+systems, and agent-based research tools.
+
+---
+
 ## Areas of Interest
 
 • AI Applications  
