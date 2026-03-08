@@ -1,16 +1,58 @@
-## Hi there 👋
+# Hi, I'm Parmeshwar 👋
 
-<!--
-**parmesh-ai/parmesh-ai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Engineer with experience building scalable web applications and exploring AI-powered systems.
 
-Here are some ideas to get you started:
+I’m currently focused on building applications using large language models, retrieval systems, and AI agents.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## Areas of Interest
+
+• AI Applications  
+• LLM Engineering  
+• Automation Platforms  
+• Developer Tools  
+
+---
+
+## Tech Stack
+
+**Languages**
+
+Python • Go • JavaScript • TypeScript  
+
+**Frontend**
+
+React • Next.js  
+
+**AI / LLM**
+
+OpenAI APIs • LangGraph • CrewAI  
+
+**Architecture**
+
+RAG Systems • Event-Driven Architecture • Microservices  
+
+---
+
+## Projects
+
+Currently building systems such as:
+
+## Featured Projects
+
+🔹 AI Debugging Assistant  
+AI system that analyzes stack traces and suggests possible fixes.
+
+🔹 RAG Knowledge Assistant  
+Document search assistant powered by vector embeddings and LLMs.
+
+🔹 Multi-Agent Research System  
+Team of AI agents that collaborate to research and summarize topics.
+ 
+
+---
+
+## 📫 Connect With Me
+
+LinkedIn: www.linkedin.com/in/parmeshwar-mr-50218a83
